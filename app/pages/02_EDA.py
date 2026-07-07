@@ -15,7 +15,7 @@ st.markdown("---")
 # 📥 Carga del dataset limpio procesado
 @st.cache_data
 def cargar_datos_limpios():
-    return pd.read_json('../data/processed/streaming_users_clean.json')
+    return pd.read_json('data/processed/streaming_users_clean.json')
 
 try:
     df = cargar_datos_limpios()
