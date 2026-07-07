@@ -54,6 +54,6 @@ st.success("🎉 ¡Muchas gracias por leer mi trabajo!")
 # Enlace de regreso a la Home
 col_btn, _ = st.columns([1, 3])
 with col_btn:
-    st.page_link("home.py", label="Volver al Inicio (Home)", icon="🏠", use_container_width=True)
+    st.page_link("Home.py", label="Volver al Inicio (Home)", icon="🏠", use_container_width=True)
 
 st.caption("Proyecto Integrador · Minería de Datos 1 · ITSE")
