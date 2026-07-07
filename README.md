@@ -180,7 +180,7 @@ El proyecto incluye una aplicación desarrollada en **Streamlit** que permite ex
 
 🔗 **Aplicación:**
 
-> *(Agregar aquí el enlace de Streamlit Cloud.)*
+> [*(Enlace de Streamlit Cloud.)*](https://pimineriadatos1-3hg93urnsydbmbrxjpbn8l.streamlit.app/)
 
 ---
 

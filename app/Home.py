@@ -39,7 +39,7 @@ with col2:
         
         st.markdown("**Código Fuente:**")
         
-        st.markdown("🔗 [Repositorio en GitHub](https://github.com/tu-usuario/tu-repositorio)")
+        st.markdown("🔗 [Repositorio en GitHub](https://github.com/EduRePiN/PI_Mineria_Datos_1)")
 
 st.markdown("---")
 

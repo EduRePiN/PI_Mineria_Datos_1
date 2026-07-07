@@ -108,7 +108,7 @@ st.markdown("---")
 st.header("4. Vista Previa del Dataset Limpio")
 
 # Carga del dataset procesado final
-df_procesado = pd.read_json('../data/processed/streaming_users_clean.json')
+df_procesado = pd.read_json('../../data/processed/streaming_users_clean.json')
 df_clean_preview = pd.DataFrame(df_procesado)
 
 st.dataframe(df_clean_preview, use_container_width=True)
