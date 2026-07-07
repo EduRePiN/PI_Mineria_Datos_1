@@ -189,7 +189,7 @@ El proyecto incluye una aplicación desarrollada en **Streamlit** que permite ex
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu_usuario/PI_Mineria_Datos_1.git
+git clone https://github.com/EduRePiN/PI_Mineria_Datos_1.git
 ```
 
 Ingresar al proyecto
