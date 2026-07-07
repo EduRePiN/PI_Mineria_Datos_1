@@ -1,0 +1,7 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+0,Dataset original,8160,753,100.00%
+1,Eliminación de duplicados,8032,753,98.43%
+2,Normalización Categoricas,8032,753,98.43%
+3,Limpieza de fechas y filtrado de periodo 2018-2025,7633,418,93.54%
+4,Imputación de faltantes en género y tiempo mensual,7633,0,93.54%
+5,Tratamiento de outliers,7633,0,93.54%
